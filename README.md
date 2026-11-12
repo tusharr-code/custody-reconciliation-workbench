@@ -1,7 +1,4 @@
-<img width="1280" height="720" alt="YG67WIh5OxtNu3kUNeusOXZnBZWNgLBlE4j2kV5WeciwZhDXJWMd-7jwNoR04IvmfFFGU4oNGC464Wb4BzH3E9qkefBwxXVqjVgx2fgzv4SfCLq9H7fawz6dNGszZrEFUqiF3Fo5hnOkfTUajKHBXE8Lx97y0ojePd0E00P6mfY_-G0sIo0jj0PZYBOQEFcC" src="https://github.com/user-attachments/assets/de5ebce8-167a-4534-8868-6aecdd4af36e" />
-<img width="3600" height="2160" alt="PpNQT9GUi-S_l6iHhGIZoiQ_ewqw28ZKRhZv_qD2yNnEIYk9nP-cG53Vi5ulUXsBvelMkb8PG4OB5sj8xQFJqHycdXxfAVLTexbq6YNmy4h6Y9RzbzHLQYcNBaKoTZS7FrucvHaAJBcfVmEVwRmB01ai3eWOvgYDKOly1nkS9Dui5KpHwzICMP_oA4mKVDZj" src="https://github.com/user-attachments/assets/5662fccc-1668-44d6-9149-4e436237e523" />
-<img width="3600" height="2160" alt="PpNQT9GUi-S_l6iHhGIZoiQ_ewqw28ZKRhZv_qD2yNnEIYk9nP-cG53Vi5ulUXsBvelMkb8PG4OB5sj8xQFJqHycdXxfAVLTexbq6YNmy4h6Y9RzbzHLQYcNBaKoTZS7FrucvHaAJBcfVmEVwRmB01ai3eWOvgYDKOly1nkS9Dui5KpHwzICMP_oA4mKVDZj (1)" src="https://github.com/user-attachments/assets/b35c2c3d-71ce-49d1-a530-97f22cee221e" />
-<img width="2650" height="1254" alt="0ebyGdz5vzYiXoTI3NI7loDZGW6sC8AJWNjXznH7_rJ-7ZHPEDwezJ6tvejxsyH1Z1g8SLvwhQW1cNGQLa77X_wPm1N2pCBR0k3aRbGitIRHpMUZv_Jk1k_ra7eKIKK6hloh5vp7Eww-MD1db1h1h1LdXpt4NU1MKPGLFrbBdkyE-VdYzzckVKfishQX0_OC" src="https://github.com/user-attachments/assets/96bf7701-0196-4591-a2e5-a724bfff8169" />
+
 # Custody Reconciliation Workbench v2
 
 A database-backed development implementation extending the supplied browser MVP.
@@ -75,6 +72,11 @@ See `database/schema.sql` for the PostgreSQL DDL reference. SQLAlchemy creates t
 - `sample_data/custodian_positions.csv` and `sample_data/internal_positions.csv`
 
 The sample files contain transaction and position rows. For a transaction run, retain the `TRANSACTION` rows; for a position run, retain the `POSITION` rows. You can split them into separate files in a spreadsheet or text editor.
+
+<img width="1280" height="720" alt="YG67WIh5OxtNu3kUNeusOXZnBZWNgLBlE4j2kV5WeciwZhDXJWMd-7jwNoR04IvmfFFGU4oNGC464Wb4BzH3E9qkefBwxXVqjVgx2fgzv4SfCLq9H7fawz6dNGszZrEFUqiF3Fo5hnOkfTUajKHBXE8Lx97y0ojePd0E00P6mfY_-G0sIo0jj0PZYBOQEFcC" src="https://github.com/user-attachments/assets/de5ebce8-167a-4534-8868-6aecdd4af36e" />
+<img width="3600" height="2160" alt="PpNQT9GUi-S_l6iHhGIZoiQ_ewqw28ZKRhZv_qD2yNnEIYk9nP-cG53Vi5ulUXsBvelMkb8PG4OB5sj8xQFJqHycdXxfAVLTexbq6YNmy4h6Y9RzbzHLQYcNBaKoTZS7FrucvHaAJBcfVmEVwRmB01ai3eWOvgYDKOly1nkS9Dui5KpHwzICMP_oA4mKVDZj" src="https://github.com/user-attachments/assets/5662fccc-1668-44d6-9149-4e436237e523" />
+<img width="3600" height="2160" alt="PpNQT9GUi-S_l6iHhGIZoiQ_ewqw28ZKRhZv_qD2yNnEIYk9nP-cG53Vi5ulUXsBvelMkb8PG4OB5sj8xQFJqHycdXxfAVLTexbq6YNmy4h6Y9RzbzHLQYcNBaKoTZS7FrucvHaAJBcfVmEVwRmB01ai3eWOvgYDKOly1nkS9Dui5KpHwzICMP_oA4mKVDZj (1)" src="https://github.com/user-attachments/assets/b35c2c3d-71ce-49d1-a530-97f22cee221e" />
+<img width="2650" height="1254" alt="0ebyGdz5vzYiXoTI3NI7loDZGW6sC8AJWNjXznH7_rJ-7ZHPEDwezJ6tvejxsyH1Z1g8SLvwhQW1cNGQLa77X_wPm1N2pCBR0k3aRbGitIRHpMUZv_Jk1k_ra7eKIKK6hloh5vp7Eww-MD1db1h1h1LdXpt4NU1MKPGLFrbBdkyE-VdYzzckVKfishQX0_OC" src="https://github.com/user-attachments/assets/96bf7701-0196-4591-a2e5-a724bfff8169" />
 
 ## Tests
 
