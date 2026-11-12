@@ -57,19 +57,19 @@ The Custody Reconciliation Workbench explores a technology-driven approach to th
 ## Application Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.jpg)
+<img width="2650" height="1254" alt="0ebyGdz5vzYiXoTI3NI7loDZGW6sC8AJWNjXznH7_rJ-7ZHPEDwezJ6tvejxsyH1Z1g8SLvwhQW1cNGQLa77X_wPm1N2pCBR0k3aRbGitIRHpMUZv_Jk1k_ra7eKIKK6hloh5vp7Eww-MD1db1h1h1LdXpt4NU1MKPGLFrbBdkyE-VdYzzckVKfishQX0_OC" src="https://github.com/user-attachments/assets/0d48318d-4c8c-4505-a8eb-8153f99012b9" />
+
 
 ### Transaction Reconciliation
-![Transaction Reconciliation](screenshots/transaction-reconciliation.jpg)
+ 
 
 ### Position Reconciliation
-![Position Reconciliation](screenshots/position-reconciliation.jpg)
+ 
 
 ### Break Management
-![Break Management](screenshots/break-management.jpg)
+ 
 
-*Replace screenshot filenames above with the exact names of your uploaded image files if they differ.*
-
+ 
 ---
 
 ## Technology Stack
