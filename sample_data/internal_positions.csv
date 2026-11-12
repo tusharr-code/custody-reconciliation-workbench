@@ -1,0 +1,5 @@
+record_type,account,transaction_id,security,transaction_type,trade_date,settlement_date,quantity,net_amount,currency,price,market_value
+POSITION,FUND001,,AAPL,,,,1000,,USD,225,225000
+POSITION,FUND001,,MSFT,,,,450,,USD,420,189000
+POSITION,FUND002,,TSLA,,,,200,,USD,325,65000
+POSITION,FUND002,,NVDA,,,,75,,USD,1200,90000
