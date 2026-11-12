@@ -1,6 +1,6 @@
 # Custody Reconciliation Workbench v2
 
-A database-backed development implementation extending the supplied browser MVP and using the PCR Break Resolution screen as the operational UI reference.
+A database-backed development implementation extending the supplied browser MVP.
 
 ## Architecture
 
